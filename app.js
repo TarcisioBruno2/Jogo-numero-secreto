@@ -52,7 +52,6 @@ function gerarUmNumeroAleatorio() {
         return gerarUmNumeroAleatorio();
     } else{
         listaDeNumerosSorteados.push(numeroEscolhido);
-        console.log(listaDeNumerosSorteados);
         return numeroEscolhido
     }
 }
