@@ -32,7 +32,7 @@ function verificarChute() {
             exibirTextoNaTela('p', 'O número secreto e menor');
             exibirTextoNaTela('h1','Tente novamente');
         } else {
-            exibirTextoNaTela('p','O número secretoe maior');
+            exibirTextoNaTela('p','O número secreto e maior');
             exibirTextoNaTela('h1','Tente novamente');
         }
         tentativas++;
